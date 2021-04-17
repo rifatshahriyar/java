@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cae47eb-87e4-4d28-bdc7-330d8017957a" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaPackageInterfaceException" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCXtdlInzqIE9FxBquuCrm6OW0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Jan 2020\Lecture-5\JavaPackageInterfaceException\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InterfacePrivateMethodTest">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="ExceptionCustom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionCustom" />
+      <module name="JavaPackageInterfaceException" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionMultipleCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionMultipleCatch" />
+      <module name="JavaPackageInterfaceException" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionThrow" />
+      <module name="JavaPackageInterfaceException" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionThrows" />
+      <module name="JavaPackageInterfaceException" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfacePrivateMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacePrivateMethodTest" />
+      <module name="JavaPackageInterfaceException" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ExceptionMultipleCatch" />
+      <item itemvalue="Application.ExceptionThrow" />
+      <item itemvalue="Application.ExceptionThrows" />
+      <item itemvalue="Application.ExceptionCustom" />
+      <item itemvalue="Application.InterfacePrivateMethodTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InterfacePrivateMethodTest" />
+        <item itemvalue="Application.ExceptionCustom" />
+        <item itemvalue="Application.ExceptionThrows" />
+        <item itemvalue="Application.ExceptionThrow" />
+        <item itemvalue="Application.ExceptionMultipleCatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cae47eb-87e4-4d28-bdc7-330d8017957a" name="Default" comment="" />
+      <created>1444370565926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1444370565926</updated>
+      <workItem from="1586240765784" duration="419000" />
+      <workItem from="1586253378024" duration="5276000" />
+      <workItem from="1586281191199" duration="250000" />
+      <workItem from="1586343512735" duration="6940000" />
+      <workItem from="1586359262580" duration="5537000" />
+      <workItem from="1586431417822" duration="2463000" />
+      <workItem from="1586456704088" duration="2226000" />
+      <workItem from="1586498806673" duration="6718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586347347951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586347347951" />
+    <state width="1237" height="103" key="GridCell.Tab.0.bottom" timestamp="1586506538885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586350645697" />
+    <state width="1237" height="103" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586506538885" />
+    <state width="1323" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586348374556" />
+    <state width="1237" height="103" key="GridCell.Tab.0.center" timestamp="1586506538885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586350645697" />
+    <state width="1237" height="103" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586506538885" />
+    <state width="1323" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586348374555" />
+    <state width="1237" height="103" key="GridCell.Tab.0.left" timestamp="1586506538884">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586350645696" />
+    <state width="1237" height="103" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586506538884" />
+    <state width="1323" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586348374555" />
+    <state width="1237" height="103" key="GridCell.Tab.0.right" timestamp="1586506538885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586350645697" />
+    <state width="1237" height="103" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586506538885" />
+    <state width="1323" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586348374556" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1586350645697">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586350645697" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586345694204" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1586350645697">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586350645697" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586345694204" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1586350645697">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586350645697" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586345694203" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1586350645697">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586350645697" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586345694204" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1586505882763">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586505882763" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1586498827500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1586344282409" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586498827500" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586254720770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586254720770" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.SampleController">
+   <children>
+      <DatePicker fx:id="datePicker" layoutX="45.0" layoutY="99.0" />
+       <ProgressIndicator fx:id="progressIndicator" layoutX="293.0" layoutY="36.0" progress="0.0" />
+      <ProgressBar fx:id="progressBar" layoutX="45.0" layoutY="38.0" prefWidth="200.0" progress="0.0" />
+      <ColorPicker fx:id="colorPicker" layoutX="245.0" layoutY="99.0" />
+      <Button fx:id="button" layoutX="183.0" layoutY="163.0" mnemonicParsing="false" onAction="#buttonAction" text="Load" />
+
+   </children>
+</AnchorPane>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.TableViewController">
+   <children>
+      <TableView fx:id="tableView" layoutX="23.0" layoutY="20.0" prefHeight="200.0" prefWidth="450.0" />
+      <Button fx:id="button" layoutX="240.0" layoutY="244.0" mnemonicParsing="false" onAction="#buttonAction" text="Change Value" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.HomeController">
+   <children>
+      <Label fx:id="message" layoutX="96.0" layoutY="43.0" prefHeight="39.0" prefWidth="215.0">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Label>
+      <ImageView fx:id="image" fitHeight="150.0" fitWidth="200.0" layoutX="100.0" layoutY="121.0" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="button" layoutX="320.0" layoutY="252.0" mnemonicParsing="false" onAction="#logoutAction" text="Logout" />
+   </children>
+</AnchorPane>
